@@ -34,14 +34,6 @@ When the money is deposited, the customer understands that the money is there fo
 Term deposits are popular with investors who prefer capital security and a set return as opposed to the fluctuations of, say, the share market. Many investors also use term deposits as a part of their investment mix.For more information with regards to Term Deposits please click on this link from Investopedia: https://www.investopedia.com/terms/t/termdeposit.asp
 
 
-You are provided with following files:
-
-1. train.csv : Use this dataset to train the model. This file contains all the client and call details as well 
-as the target variable “subscribed”. You have to train your model using this file.
-
-2. test.csv : Use the trained model to predict whether a new set of clients
-will subscribe the term deposit.
-
 ### Dataset Attributes
 
 Here is the description of all the variables :
