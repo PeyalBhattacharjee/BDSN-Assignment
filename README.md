@@ -69,12 +69,9 @@ Here is the description of all the variables :
 
 ## Algorithms Used for Analysis
 
-- Python
-- Numpy
-- Pandas
-- Seaborn
 - Logistic Regression
 - Decision Tree Classifier
+- Random Forest
 
 ## References
 
